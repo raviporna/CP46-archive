@@ -8,5 +8,5 @@ ___
 [2110363-HWSynLab](https://github.com/raviporna/HWSYNLAB2021) \
 [2110366-EmbSysLab](https://github.com/raviporna/EMBSYSLAB2020)
 ## CP-elective courses outside this world
-[2110413-CompSecurity](https://github.com/saenyakorn/2110413-COMP-SECURITY) \
+[2110413-CompSecurity(1)](https://github.com/saenyakorn/2110413-COMP-SECURITY) [2110413-CompSecurity(2)](https://github.com/natTP/2110413-computer-security) \
 [2110452-HighPerfArch](https://github.com/raviporna/HIGHPERFARCH2021)
